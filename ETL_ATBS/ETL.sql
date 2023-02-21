@@ -839,9 +839,3 @@ SELECT * FROM Flight_Preload_ATBS;
 
 
 
-
-
--- Anjan Shah - 8817999
--- Prabhjot Singh - 8752445
--- Savita Sharma - 8735811
--- Kamini Banwala - 8818829
